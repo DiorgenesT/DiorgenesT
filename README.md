@@ -22,29 +22,6 @@
 
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs"> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript"> <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css"> </p>
 
-🌱 Meu Plano de Estudos (Aprofundamento em Dados)
-<p align="left"> Estou ativamente aprofundando meus conhecimentos para dominar o fluxo completo de um projeto de dados. Minha base de estudos futura está focada nas seguintes tecnologias-chave: </p>
-
-<p align="left"> <strong>Coleta e Acesso a Dados:</strong>
-
-
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy"> <img src="https://img.shields.io/badge/-Requests-lightgrey?style=flat"> </p>
-
-<p align="left"> <strong>Dashboards e Visualização Interativa:</strong>
-
-
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit"> <img src="https://img.shields.io/badge/-Dash-008DE4?style=flat&logo=plotly"> </p>
-
-<p align="left"> <strong>Machine Learning e Modelagem:</strong>
-
-
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn"> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy"> </p>
-
-<p align="left"> <strong>Big Data e Performance:</strong>
-
-
-<img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark"> <img src="https://img.shields.io/badge/-Polars-000000?style=flat"> </p>
-
 ---
 
 ### 📫 Onde me encontrar
