@@ -4,9 +4,7 @@
   Sou um <strong>Desenvolvedor de Software</strong> com formação em <strong>Ciência da Computação</strong> e pós-graduação 
   em Desenvolvimento de Sistemas com <strong>Python</strong>. 
   <br><br>
-  Minha paixão é usar tecnologia para construir soluções eficientes, seja 
-  trabalhando com análise de dados ou desenvolvendo aplicações web modernas. 
-  Atualmente, contribuo para os projetos de tecnologia da Prefeitura de Betim.
+  Minha paixão é usar tecnologia para construir soluções eficientes. Atualmente, atuo como Desenvolvedor   na Fundação Beta, o centro de inovação e tecnologia da Prefeitura de Betim, criando soluções   digitais que aproximam o governo do cidadão.
 </p>
 
 ---
