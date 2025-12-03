@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/diorgenestavares/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
-  <a href="httpsa://wa.me/5531992353532" target="_blank">
+  <a href="httpsa://wa.me/5531991519864" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
   </a>
 </p>
