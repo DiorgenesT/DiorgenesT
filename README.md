@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/header.png" width="100%" />
-</p>
 <!-- DYNAMIC HUD TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=1000&color=5ec097&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;USER:+DIORGENES+TAVARES;ROLE:+SOFTWARE+DEVELOPER;SKILL:+DATA+ENGINEERING;STATUS:+INNOVATING+AT+BETA" />
