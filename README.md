@@ -35,8 +35,8 @@
 ### 📡 LIVE_STREAM_TELEMETRY
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiorgenesT&show_icons=true&theme=vue-dark&title_color=5ec097&icon_color=5ec097&text_color=ffffff&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorgenesT&layout=compact&theme=vue-dark&title_color=5ec097&text_color=ffffff&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiorgenesT&show_icons=true&theme=radical&title_color=5ec097&icon_color=5ec097&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiorgenesT&layout=compact&theme=radical&title_color=5ec097&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
