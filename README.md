@@ -11,24 +11,31 @@
 
 <hr>
 
-### █▓▒░ PROFESSIONAL_SUMMARY
-
-<p>
-  <b>Diorgenes (DG) George</b> | Software Developer | Full Stack & Data Specialist <br>
-  Python (FastAPI/Pandas) • React/Next.js | Soluções Data-Driven
-</p>
-
-<blockquote>
-  Sou Desenvolvedor de Software com formação em Ciência da Computação e pós-graduação em Desenvolvimento de Sistemas em Python. Minha trajetória é focada na criação de soluções digitais de alto impacto, evoluindo do front-end moderno para uma atuação robusta em Engenharia de Dados e Back-end.
-</blockquote>
-
-<p>
-  🚀 Atualmente, na <b>Fundação Beta (Prefeitura de Betim)</b>, projeto ecossistemas que transformam dados complexos em ferramentas intuitivas para o cidadão e para a gestão pública. 
-</p>
-
-<p>
-  Domino o ciclo completo do dado: desde a coleta automatizada (Web Scraping), passando pelo tratamento estatístico com <b>Pandas</b> e <b>NumPy</b>, até a entrega final em dashboards dinâmicos e APIs escaláveis com <b>FastAPI</b> e <b>Next.js</b>.
-</p>
+<table border="0">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://github.com/DiorgenesT.png?size=200" width="150" style="border-radius: 50%;" />
+      <br><br>
+      <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-5ec097?style=flat-square" />
+    </td>
+    <td width="75%" valign="top">
+      <h4>[// IDENTITY_PROFILE]</h4>
+      <p>
+        <b>Diorgenes (DG) George</b><br>
+        Full Stack & Data Specialist | Python (FastAPI/Pandas) • React/Next.js
+      </p>
+      <p>
+        Especialista em criar soluções digitais de alto impacto, evoluindo do front-end moderno para Engenharia de Dados robusta. Formação em Ciência da Computação com pós-graduação em Sistemas Python.
+      </p>
+      <p>
+        🚀 <b>Fundação Beta (Prefeitura de Betim)</b>: Projeto ecossistemas que transcrevem dados complexos em ferramentas intuitivas para eficiência e transparência pública.
+      </p>
+      <p>
+        <i>Domínio do ciclo total: do Web Scraping e tratamento estatístico (Pandas/NumPy) ao deploy de APIs escaláveis.</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
