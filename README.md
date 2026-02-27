@@ -35,12 +35,12 @@
 ### 📡 LIVE_STREAM_TELEMETRY
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiorgenesT&show_icons=true&theme=radical&title_color=5ec097&icon_color=5ec097&text_color=ffffff&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorgenesT&layout=compact&theme=radical&title_color=5ec097&text_color=ffffff&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiorgenesT&show_icons=true&theme=vue-dark&title_color=5ec097&icon_color=5ec097&text_color=ffffff&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorgenesT&layout=compact&theme=vue-dark&title_color=5ec097&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiorgenesT&theme=react-dark&bg_color=0D1117&hide_border=true&color=5ec097" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiorgenesT&theme=github-dark-wide&bg_color=0D1117&hide_border=true&color=5ec097" width="100%" />
 </p>
 
 <hr>
