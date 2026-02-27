@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="100%" />
+  <img src="assets/header.png" width="100%" />
 </p>
 <!-- DYNAMIC HUD TYPING EFFECT -->
 <p align="center">
