@@ -13,12 +13,10 @@
 
 <table border="0">
   <tr>
-    <td width="25%" align="center" valign="top">
-      <img src="https://github.com/DiorgenesT.png?size=200" width="150" style="border-radius: 50%;" />
-      <br><br>
-      <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-5ec097?style=flat-square" />
-    </td>
-    <td width="75%" valign="top">
+    <td width="100%" valign="top">
+      <div align="right">
+        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-5ec097?style=flat-square" />
+      </div>
       <h4>[// IDENTITY_PROFILE]</h4>
       <p>
         <b>Diorgenes (DG) George</b><br>
