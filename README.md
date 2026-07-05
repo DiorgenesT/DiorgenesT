@@ -2,7 +2,9 @@
 
 # Diorgenes George
 
-**Full Stack Developer** React/Next.js · Python (FastAPI) · Cloudflare
+<img src="https://img.shields.io/badge/Full_Stack_Developer-1F9D6B?style=for-the-badge" />
+
+**React/Next.js &nbsp;·&nbsp; Python (FastAPI) &nbsp;·&nbsp; Cloudflare**
 
 <sub>Sistemas para gestão pública · Betim, MG, Brasil</sub>
 
@@ -18,28 +20,34 @@ Trabalho no ciclo completo de produto: interfaces em React/Next.js, APIs em Pyth
 
 ### Stack
 
-```
-Front-end     React · Next.js · TypeScript · Tailwind CSS
-Back-end      Python · FastAPI · SQLAlchemy · Node.js
-Infra         Cloudflare (Workers, Pages, D1, KV, R2) · Docker
-Dados         PostgreSQL · Supabase
-Versionamento Git · GitHub · CI/CD
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,fastapi,nodejs,postgres,supabase,docker,cloudflare,git&theme=light" />
+
+</div>
+
+```text
+Front-end       React · Next.js · TypeScript · Tailwind CSS
+Back-end        Python · FastAPI · SQLAlchemy · Node.js
+Infra           Cloudflare (Workers, Pages, D1, KV, R2) · Docker
+Dados           PostgreSQL · Supabase
+Versionamento   Git · GitHub · CI/CD
 ```
 
 <br>
 
-### GitHub Stats
+### No momento
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DiorgenesT&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=444444&text_color=444444&bg_color=ffffff00" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorgenesT&layout=compact&theme=default&hide_border=true&title_color=1a1a1a&text_color=444444&bg_color=ffffff00" />
-</div>
+- Construindo dashboards e portais de serviço para a administração municipal
+- Explorando integrações de IA em produção (RAG, agentes, automação)
+- Evoluindo projetos pessoais com foco em arquitetura resiliente e escalável
 
 <br>
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/diorgenesgeorge/) · [Instagram](https://www.instagram.com/diorgenestavares/) · [WhatsApp](https://wa.me/5531991519864)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F9D6B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diorgenesgeorge/)
+[![Instagram](https://img.shields.io/badge/Instagram-1F9D6B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/diorgenestavares/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1F9D6B?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531991519864)
 
 </div>
-
