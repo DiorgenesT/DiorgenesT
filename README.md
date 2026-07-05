@@ -1,23 +1,23 @@
 <!-- DYNAMIC HUD TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=1000&color=5ec097&center=true&vCenter=true&width=700&lines=Diorgenes+George;Software+Developer;Full+Stack+%26+Data+Engineer;Evolvendo+Dados+em+Produtos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=1000&color=5ec097&center=true&vCenter=true&width=700&lines=Diorgenes+George;Full+Stack+Developer;Cloudflare+%26+Python+Backend;Sistemas+Escalaveis+para+Gestao+Publica" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPER-5ec097?style=flat-square" />
-  <img src="https://img.shields.io/badge/FULL_STACK_SPECIALIST-027EEE?style=flat-square" />
-  <img src="https://img.shields.io/badge/DATA_ENGINEERING-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-5ec097?style=flat-square" />
+  <img src="https://img.shields.io/badge/CLOUDFLARE_ECOSYSTEM-F38020?style=flat-square" />
+  <img src="https://img.shields.io/badge/PYTHON_BACKEND-3776AB?style=flat-square" />
 </p>
 
 <hr>
 
 ### 👤 PROFILE_OVERVIEW
 
-**Sou Desenvolvedor de Software com formação em Ciência da Computação e pós-graduação em Desenvolvimento de Sistemas.** Minha trajetória profissional foca na construção de interfaces modernas e no desenvolvimento de soluções robustas para Engenharia de Dados e Back-end.
+**Desenvolvedor Full Stack e Analista Sênior, formado em Ciência da Computação**, com foco em construir sistemas escaláveis e de alta responsabilidade — do front-end à infraestrutura de deploy.
 
-Atualmente, na **Fundação Beta (Prefeitura de Betim)**, atuo no desenvolvimento de sistemas que transformam dados complexos em ferramentas intuitivas para a gestão pública. Tenho experiência no ciclo completo de dados — desde a extração automatizada (Web Scraping) até a disponibilização em APIs escaláveis e dashboards dinâmicos.
+Atualmente, na **Fundação Beta (Prefeitura de Betim)**, desenvolvo e mantenho sistemas municipais que atendem diretamente a gestão pública, servidores e cidadãos, incluindo painéis de inteligência executiva, portais de serviço e infraestrutura de dashboards de transparência. Trabalho com o ciclo completo: interface, API, banco de dados e deploy.
 
-Minha especialidade foca em performance e escalabilidade, utilizando **TypeScript (Next.js)** para o desenvolvimento de produtos SaaS, integrando camadas de pagamentos (Stripe), persistência em tempo real (Firebase) e comunicações transacionais.
+Minha stack combina **React/Next.js/TypeScript** no front-end, **Python (FastAPI/SQLAlchemy)** no back-end, e o **ecossistema Cloudflare (Workers, Pages, D1, KV, R2)** como infraestrutura principal de deploy e dados, com PostgreSQL e Supabase como camadas de persistência.
 
 <hr>
 
@@ -26,30 +26,30 @@ Minha especialidade foca em performance e escalabilidade, utilizando **TypeScrip
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>[// DEVELOPMENT_CORE]</h4>
+      <h4>[// FRONT_END]</h4>
       <code>> TypeScript / JavaScript</code><br>
       <code>> Next.js / React (App Router)</code><br>
-      <code>> Python (FastAPI / Flask)</code>
+      <code>> Tailwind CSS / GSAP</code>
     </td>
     <td width="50%" valign="top">
-      <h4>[// DATA_ENGINEERING]</h4>
-      <code>> Pandas / NumPy</code><br>
-      <code>> Web Scraping (Beautiful Soup)</code><br>
-      <code>> Firebase (NoSQL / Real-time)</code>
+      <h4>[// BACK_END]</h4>
+      <code>> Python (FastAPI / SQLAlchemy)</code><br>
+      <code>> Node.js</code><br>
+      <code>> Pandas / Web Scraping (BeautifulSoup)</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>[// DESIGN_EXPERIENCE]</h4>
-      <code>> Tailwind CSS / CSS4</code><br>
-      <code>> GSAP Animations (UX Imersiva)</code><br>
-      <code>> Stripe API / Resend</code>
+      <h4>[// CLOUDFLARE_INFRA]</h4>
+      <code>> Workers / Pages</code><br>
+      <code>> D1 (SQL Database)</code><br>
+      <code>> KV / R2 (Storage)</code>
     </td>
     <td width="50%" valign="top">
-      <h4>[// CLOUD_INFRASTRUCTURE]</h4>
-      <code>> Vercel / Cloudflare</code><br>
-      <code>> Docker & PostgreSQL</code><br>
-      <code>> Versionamento Git / GitHub</code>
+      <h4>[// DATA_%26_DEVOPS]</h4>
+      <code>> PostgreSQL / Supabase</code><br>
+      <code>> Docker</code><br>
+      <code>> Git / GitHub / CI-CD</code>
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@ Minha especialidade foca em performance e escalabilidade, utilizando **TypeScrip
 </p>
 
 <p align="center">
-  <i>Focado em transformar código em valor real através de automação de processos e soluções baseadas em dados.</i>
+  <i>Sistemas robustos nascem de decisões de arquitetura simples. Foco em performance, escalabilidade e impacto real.</i>
 </p>
 
 <p align="center">
